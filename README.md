@@ -1,1 +1,3 @@
-<h1>Resume Alexander Alhazov</h1>
+# Мое резюме
+
+## Результат можно посмотреть [тут](https://alhazov.github.io/cv/)
